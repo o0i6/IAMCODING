@@ -40,8 +40,14 @@ TeleGram Bot || بوت حماية لكروبات التلكرام
 
 <3
 
-Dev: المطورين
+📌¦ Welcome My Dear
 
-Dev : @oo0i6
-Channel : @IAMCODING
-BOT_UserName : @o0i6Bot
+IAMCODING V1 
+For More Information Subscribe To The Channel @IAMCODING 
+ https://github.com/Muntadher/IAMCODING
+
+📌¦ Dev @oo0i6
+
+📌¦ Dev Bot @o0i6bot
+
+📌¦ Channel @IAMCODING
