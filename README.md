@@ -12,7 +12,7 @@ TeleGram Bot || بوت حماية لكروبات التلكرام
 
 ثالثا :
 
-تنصيب ملفات البوت : git clone https://github.com/hussian1997/bot_Iraq1997.git
+تنصيب ملفات البوت : git clone https://github.com/o0i6/IAMCODING.git
 
 رابعا : 
 
